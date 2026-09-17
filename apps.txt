@@ -1,0 +1,127 @@
+Access
+Adobe offers
+Agoda
+Brave
+Dubbing AI
+Excel
+Google Chrome
+HP Documentation
+Microsoft Edge
+OneDrive
+OneNote
+Outlook (classic)
+PowerPoint
+Publisher
+Sticky Notes (new)
+Word
+Remote Desktop Connection
+Steps Recorder
+Windows Media Player Legacy
+XPS Viewer
+Character Map
+Component Services
+Computer Management
+dfrgui
+Disk Cleanup
+Event Viewer
+iSCSI Initiator
+Memory Diagnostics Tool
+ODBC Data Sources (32-bit)
+ODBC Data Sources (64-bit)
+Performance Monitor
+RecoveryDrive
+Registry Editor
+Resource Monitor
+services
+System Configuration
+System Information
+Task Scheduler
+Windows Defender Firewall with Advanced Security
+Attach Digital Signatures
+AutoCAD 2025 - English
+Batch Standards Checker
+Reference Manager
+Reset Settings to Default
+Export AutoCAD 2025 Settings
+Import AutoCAD 2025 Settings
+Migrate From a Previous Release
+Cisco Packet Tracer Help
+Cisco Packet Tracer
+Qt Linguist
+Saves
+Uninstall Cisco Packet Tracer
+Git Bash
+Git CMD
+Git GUI
+Git Release Notes
+McAfee
+Office Language Preferences
+MySQL Installer - Community
+Install Additional Tools for Node.js
+Node.js command prompt
+Node.js
+Uninstall Node.js
+Riot Client
+VALORANT
+Task Manager
+Documentation
+Release Notes
+VideoLAN Website
+VLC media player - reset preferences and cache files
+VLC media player skinned
+VLC media player
+GPUView Help
+GPUView
+Windows Performance Analyzer
+Windows Performance Recorder
+Windows PowerShell ISE (x86)
+Windows PowerShell ISE
+Administrative Tools
+BitTorrent Web
+CodeTantra SEA
+File Explorer
+Grammarly
+KANNI
+Neo Browser
+Ollama
+Opera GX Browser
+Visual Studio Code
+LiveCaptions
+Magnify
+Narrator
+On-Screen Keyboard
+VoiceAccess
+Discord
+Genshin Impact
+HoYoPlay
+Uninstall HoYoPlay
+MSYS2 CLANG64
+MSYS2 CLANGARM64
+MSYS2 MINGW64
+MSYS2 MSYS
+MSYS2 UCRT64
+Ollama
+IDLE (Python 3.14)
+PyDoc (Python 3.14)
+Python 3.14 Manuals
+Python 3.14 Online Documentation
+Python 3.14
+IDLE (Python 3.13 64-bit)
+Python 3.13 (64-bit)
+Python 3.13 Manuals (64-bit)
+Python 3.13 Module Docs (64-bit)
+IDLE (Python 3.14 64-bit)
+Python 3.14 (64-bit)
+Python 3.14 Manuals (64-bit)
+Python 3.14 Module Docs (64-bit)
+Roblox Studio
+Ollama
+Send to OneNote
+Command Prompt
+Control Panel
+Run
+Telegram
+Uninstall Telegram
+Visual Studio Code
+Windows PowerShell (x86)
+Windows PowerShell
